@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CCONLINE
+        psr4_prefix: CCONLINE
+        src_path: app

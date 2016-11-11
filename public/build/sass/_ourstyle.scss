@@ -1,0 +1,91 @@
+li.user-header{
+  background: #E7E7E7;
+}
+li.user-header p{
+  color: #545454 !important;
+}
+.navbar-default{
+  margin-bottom: 0 !important;
+  border-bottom: 4px solid rgba(0,0,0,0.3);
+  border-radius: 0 !important;
+}
+div#myCarousel img{
+  width: 100% !important;
+  min-height: 200px;
+}
+a h4{
+  color: $color2 !important;
+}
+span.phonenumbber{
+  color: $color2 !important;
+  border-radius: 10px;
+  border: 1px solid $color2;
+  padding: 10px;
+  font-size: 10px !important;
+}
+span.phonenumbber{
+  color: white !important;
+  border-radius: 10px;
+  border: 1px solid $color2;
+  padding: 7px 15px;
+  font-size: 15px !important;
+  background: $color2;
+  cursor: pointer;
+}
+.ui-autocomplete.ui-front.ui-menu.ui-widget.ui-widget-content
+{
+  overflow-y: hidden !important;
+  background: #ffffff;
+  width: 450px;
+  padding-left: 0;
+  list-style: none !important;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.ui-autocomplete.ui-front.ui-menu.ui-widget.ui-widget-content > li:hover
+{
+  color:white;
+  background: #3C8DBC;
+  list-style: none !important;
+
+}
+.ui-autocomplete.ui-front.ui-menu.ui-widget.ui-widget-content > li
+{
+  padding: 5px;
+  list-style: none !important;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.ui-state-focus
+{
+  color:white;
+  background: #3C8DBC;
+  list-style: none !important;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+#reservations>input[name="id_user"]
+{
+  margin-bottom: 5px !important;
+}
+.login-page
+{
+  background-image: url("../../dist/img/015.jpg") !important;
+}
+.login-logo>a
+{
+  color: white;
+}
+#example1
+{
+   font-size: 0.8em;
+}
